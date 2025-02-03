@@ -1,0 +1,12 @@
+nav{
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.mainsection{
+  height: 350px;
+  width: 100%;
+  display: flex;
+}
